@@ -1,0 +1,15 @@
+#http://gnome-look.org/content/show.php/Cheser+Icon+Theme?content=113386
+[Desktop Entry]
+Version=1.1
+Encoding=UTF-8
+Name=ZandreBran_NothingNew
+Type=X-GNOME-Metatheme
+Comment=A common theme, nothing new.
+Name[en]=ZandreBran_NothingNew
+
+[X-GNOME-Metatheme]
+GtkTheme=ZandreBran_NothingNew
+MetacityTheme=ZandreBran_NothingNew
+IconTheme=Cheser
+ButtonLayout=menu:minimize,maximize,close
+#CursorTheme=ComixCursors-White-Small
